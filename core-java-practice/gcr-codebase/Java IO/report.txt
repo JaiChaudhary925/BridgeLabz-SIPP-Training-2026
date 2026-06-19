@@ -1,0 +1,6 @@
+Student Report
+Aman : 80
+Riya : 90
+Karan : 70
+Average Marks = 80.0
+
