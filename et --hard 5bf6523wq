@@ -1,0 +1,58 @@
+[33m79637f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mCollection_framework_and_DSA[m[33m, [m[1;31morigin/Collection_framework_and_DSA[m[33m)[m HEAD@{0}: pull origin Collection_framework_and_DSA: Merge made by the 'ort' strategy.
+[33m5bf6523[m HEAD@{1}: commit: Move Scenario_based folder out of gcr_codebase
+[33mbdf5621[m HEAD@{2}: commit: Adding the Practice problems and scenario_based questions of sorting
+[33m3b3430e[m[33m ([m[1;31morigin/OOPS[m[33m, [m[1;32mOOPS[m[33m)[m HEAD@{3}: checkout: moving from OOPS to Collection_framework_and_DSA
+[33m3b3430e[m[33m ([m[1;31morigin/OOPS[m[33m, [m[1;32mOOPS[m[33m)[m HEAD@{4}: commit: Adding the Files of Generics
+[33mc8b9b88[m HEAD@{5}: pull origin OOPS: Merge made by the 'ort' strategy.
+[33mf1b785f[m HEAD@{6}: commit: Adding the Files of Collection Frameworks
+[33mff89078[m HEAD@{7}: commit: Adding the some remaining files of each concept
+[33m1fe9104[m HEAD@{8}: checkout: moving from core-java-practice to OOPS
+[33m376b89a[m[33m ([m[1;31morigin/core-java-practice[m[33m, [m[1;32mcore-java-practice[m[33m)[m HEAD@{9}: pull origin core-java-practice --rebase (finish): returning to refs/heads/core-java-practice
+[33m376b89a[m[33m ([m[1;31morigin/core-java-practice[m[33m, [m[1;32mcore-java-practice[m[33m)[m HEAD@{10}: pull origin core-java-practice --rebase (pick): Local update: fix folder structures and add practice files
+[33m94486c1[m HEAD@{11}: pull origin core-java-practice --rebase (start): checkout 94486c1844b2b71aaf445bb98457f1dcdebbb6f3
+[33mcfdd05a[m HEAD@{12}: commit: Local update: fix folder structures and add practice files
+[33mf456fb9[m HEAD@{13}: checkout: moving from core-java-practice to core-java-practice
+[33mf456fb9[m HEAD@{14}: reset: moving to HEAD
+[33mf456fb9[m HEAD@{15}: reset: moving to HEAD~1
+[33m94486c1[m HEAD@{16}: checkout: moving from OOPS to core-java-practice
+[33m1fe9104[m HEAD@{17}: commit: Save local core java practice files before switching branches
+[33m234bf11[m HEAD@{18}: commit: Organising the files as per the given folder structure to avoid merge conflict
+[33md52abd8[m HEAD@{19}: commit: Adding the files of Scenario based quesion 2 of polymorphism
+[33m1940c12[m HEAD@{20}: commit: Adding the files of Scenario based quesion 1 of polymorphism
+[33mcf1308a[m HEAD@{21}: commit: Adding the files of Inheritance
+[33m3e201f0[m HEAD@{22}: pull origin OOPS --rebase (finish): returning to refs/heads/OOPS
+[33m3e201f0[m HEAD@{23}: pull origin OOPS --rebase (start): checkout 3e201f06c868b52d3954c94e23f9b1e5b43bdc99
+[33m1f01fdb[m HEAD@{24}: commit: Remove core-java-practice directory from repository
+[33m75a44bd[m HEAD@{25}: commit: Adding the files of static, this and final keyword problems
+[33m94486c1[m HEAD@{26}: checkout: moving from core-java-practice to OOPS
+[33m94486c1[m HEAD@{27}: commit: Adding the output files of JAVA I/O
+[33mf456fb9[m HEAD@{28}: commit: Adding the files of JAVA I/O
+[33mf23e363[m HEAD@{29}: commit: Adding the remaining files of Exception Handling
+[33m34a152e[m HEAD@{30}: commit: Adding the files of Exception Handling
+[33m527dc4b[m HEAD@{31}: commit: Adding the files of Recursion Practice
+[33m01aebcf[m HEAD@{32}: commit: Adding the remaining files of level 2 Strings
+[33m6211b6f[m HEAD@{33}: commit: Adding the remaining files of level 1 Strings
+[33m5e0810c[m HEAD@{34}: pull origin core-java-practice: Fast-forward
+[33m138eb86[m HEAD@{35}: commit: Adding the remaining files of Arrays
+[33m09a15f9[m HEAD@{36}: commit: Adding the files
+[33md460812[m HEAD@{37}: commit: Adding the files of questions of level 2 of flow control
+[33mff0cda3[m HEAD@{38}: commit: Adding the files of questions of level 1 of flow control
+[33m7e645f0[m HEAD@{39}: commit: Adding the files of remaining questions of level 2
+[33m4e30e55[m HEAD@{40}: checkout: moving from core-java-practice to core-java-practice
+[33m4e30e55[m HEAD@{41}: commit: Adding the files of questions of level 2
+[33m7dbd949[m HEAD@{42}: checkout: moving from core-java-practice to core-java-practice
+[33m7dbd949[m HEAD@{43}: commit: Adding the remaining level 1 question files
+[33ma17d250[m HEAD@{44}: commit: Remove misplaced java files
+[33m4dece46[m HEAD@{45}: commit: Adding the remaining questions of Level 1
+[33mc6050fc[m HEAD@{46}: commit: Adding the level 1 programming files
+[33m45f306a[m HEAD@{47}: checkout: moving from core-java-practice to core-java-practice
+[33m45f306a[m HEAD@{48}: commit: Add new file to programming-elements folder
+[33m4a05520[m HEAD@{49}: checkout: moving from main to core-java-practice
+[33madef43b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{50}: reset: moving to HEAD~1
+[33ma9903df[m HEAD@{51}: pull origin main: Fast-forward
+[33madef43b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{52}: checkout: moving from main to main
+[33madef43b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{53}: checkout: moving from main to main
+[33madef43b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{54}: checkout: moving from core-java-practice to main
+[33m4a05520[m HEAD@{55}: commit: Add practice folders to training branch
+[33madef43b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{56}: checkout: moving from master to core-java-practice
+[33madef43b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{57}: initial pull
